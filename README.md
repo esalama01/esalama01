@@ -1,5 +1,5 @@
 ## HOLA!
-I'm an AI and Machine Learning Engineering Master's student at Sultan Moulay Slimane University and a 1337 (42 network) student.
+I'm an AI and Machine Learning Engineering __Master's student__ at Sultan Moulay Slimane University and a **1337 (42 network)** student.
 
 I'm highly interested in Mathematics, ML, Golang, and C.
 
